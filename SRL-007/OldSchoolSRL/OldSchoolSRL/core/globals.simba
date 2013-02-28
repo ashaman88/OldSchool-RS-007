@@ -53,10 +53,10 @@ const
 { const MMX1, MMY1, MMX2, MMY2;
   Description: MiniMap Edge Points. }
 const
-  MMX1 = 550;
-  MMY1 = 8;
-  MMX2 = 703;
-  MMY2 = 161;
+  MMX1 = 570;
+  MMY1 = 5;
+  MMX2 = 715;
+  MMY2 = 160;
 
 { const MMCX, MMCY;
   Description: MiniMap Centre Point. }
@@ -109,10 +109,10 @@ const
 { const MBX1, MBY1, MBX2, MBY2;
   Description: BankScreen EdgePoints (where you click the items, does not include tabs). }
 const
-  MBX1 = 26;
-  MBY1 = 84;
-  MBX2 = 480;
-  MBY2 = 292;
+  MBX1 = 22;
+  MBY1 = 57;
+  MBX2 = 466;
+  MBY2 = 290;
 
 { const DBX1, DBY1, DBX2, DBY2;
   Description: Deposit box edgepoints (only where the item appear) }
